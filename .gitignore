@@ -216,3 +216,31 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large processed datasets
+data/processed/*.npy
+data/processed/*.npz
+data/processed/*.pt
+data/processed/*.pth
+data/processed/*.pkl
+data/processed/meta.csv
+
+# Large raw data
+data/raw/
+models/*.pt
+models/*.pth
+models/*.ckpt
+
+# Large generated datasets
+data/processed/*.npy
+data/processed/*.npz
+data/processed/*.pt
+data/processed/*.pth
+data/processed/*.pkl
+data/processed/meta.csv
+
+# Raw data and large model checkpoints
+data/raw/
+models/*.pt
+models/*.pth
+models/*.ckpt

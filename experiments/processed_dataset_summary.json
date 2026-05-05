@@ -1,0 +1,16 @@
+{
+    "X_shape": [
+        476370,
+        24,
+        40
+    ],
+    "y_shape": [
+        476370
+    ],
+    "positive_samples": 13310,
+    "negative_samples": 463060,
+    "positive_percentage": 2.794,
+    "window_size_hours": 24,
+    "prediction_horizon_hours": 6,
+    "note": "Large processed arrays are generated locally in Kaggle and intentionally excluded from GitHub."
+}
