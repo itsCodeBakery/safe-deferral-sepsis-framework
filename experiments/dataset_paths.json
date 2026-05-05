@@ -1,0 +1,9 @@
+{
+    "base_path": "/kaggle/input/datasets/salikhussaini49/prediction-of-sepsis",
+    "training_setA_path": "/kaggle/input/datasets/salikhussaini49/prediction-of-sepsis/training_setA/training",
+    "training_setB_path": "/kaggle/input/datasets/salikhussaini49/prediction-of-sepsis/training_setB/training_setB",
+    "dataset_csv_path": "/kaggle/input/datasets/salikhussaini49/prediction-of-sepsis/Dataset.csv",
+    "num_setA_files": 20336,
+    "num_setB_files": 20000,
+    "total_patient_files": 40336
+}
