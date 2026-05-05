@@ -244,3 +244,6 @@ data/raw/
 models/*.pt
 models/*.pth
 models/*.ckpt
+
+# Generated split indices
+data/processed/*indices.npy

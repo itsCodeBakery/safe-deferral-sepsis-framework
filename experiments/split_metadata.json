@@ -1,0 +1,14 @@
+{
+    "split_type": "patient_wise_stratified_split",
+    "random_seed": 42,
+    "train_ratio": 0.7,
+    "validation_ratio": 0.15,
+    "test_ratio": 0.15,
+    "num_train_patients": 18333,
+    "num_validation_patients": 3928,
+    "num_test_patients": 3929,
+    "num_train_samples": 332213,
+    "num_validation_samples": 72256,
+    "num_test_samples": 71901,
+    "note": "Split indices are generated locally and excluded from GitHub if large."
+}

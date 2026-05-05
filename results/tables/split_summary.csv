@@ -1,0 +1,4 @@
+Split,Patients,Samples,Positive samples,Negative samples,Positive sample percentage (%),Positive patients,Negative patients
+Train,18333,332213,9262,322951,2.788,1141,17192
+Validation,3928,72256,2022,70234,2.7984,244,3684
+Test,3929,71901,2026,69875,2.8178,245,3684
