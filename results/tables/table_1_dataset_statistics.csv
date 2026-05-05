@@ -1,0 +1,10 @@
+Statistic,Value
+Total patients,40336.0
+Sepsis patients,2932.0
+Non-sepsis patients,37404.0
+Sepsis percentage (%),7.27
+Mean ICU stay length (hours),38.48
+Median ICU stay length (hours),38.0
+Minimum ICU stay length (hours),8.0
+Maximum ICU stay length (hours),336.0
+Number of clinical variables,40.0
